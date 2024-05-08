@@ -1,0 +1,14 @@
+{
+  "name": "my_site",
+  "version": "1.0.0",
+  "description": "my_site",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
